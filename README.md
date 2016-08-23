@@ -1,3 +1,3 @@
 # hello-world
 Camila aprendiendo Github
-Con Eloisa al costado.
+con Eloisa al costado.
